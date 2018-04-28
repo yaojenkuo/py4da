@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Python 與資料分析
 
-You can use the [editor on GitHub](https://github.com/yaojenkuo/py4da/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 簡介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在[台灣大學資訊工程學系資訊系統訓練班](https://www.csie.ntu.edu.tw/train/)所開設的 Python 與資料分析課程網頁，課程時數 10 小時。
 
-### Markdown
+### 評分標準
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 70 分即可獲得證書，作業請寄至 tony@kyosei.ai，註明班別與姓名
+- 作業繳交期限為課程結束後一週內，如遇長假期（春節、連假）則順延
 
-```markdown
-Syntax highlighted code block
+|作業編號|作業名稱|作業分數|
+|-------|------|-------|
+|作業 0|網站爬蟲|70/250|
+|作業 1|NumPy 入門|50/250|
+|作業 2|pandas 入門|70/250|
 
-# Header 1
-## Header 2
-### Header 3
+### 課程大綱
 
-- Bulleted
-- List
+- [靜態網頁擷取](https://yaojenkuo.github.io/py4da/static_scraper.slides.html)
+- [動態網頁擷取](https://yaojenkuo.github.io/py4da/dynamic_scraper.slides.html)
+- [NumPy 入門](https://yaojenkuo.github.io/py4da/ch4.slides.html)
+- [pandas 入門](https://yaojenkuo.github.io/py4da/pandas_intro.slides.html)
+- [資料視覺化](https://yaojenkuo.github.io/py4da/pandas_viz.slides.html)
+- [pandas 專題：奧運獎牌排行](https://yaojenkuo.github.io/py4da/pandas_olympic.slides.html)
+- [pandas 專題：美國普查](https://yaojenkuo.github.io/py4da/pandas_us_census.slides.html)
+- [pandas 專題：世界能源指標](https://yaojenkuo.github.io/py4da/pandas_energy_indicator.slides.html)
 
-1. Numbered
-2. List
+### 學習資源
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaojenkuo/py4da/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [DataInPoint](https://www.facebook.com/datainpoint)
+- [Pyradise](https://www.facebook.com/pyradise.geek)
+- [DataCamp](https://www.datacamp.com/courses/tech:python?tap_a=5644-dce66f&tap_s=194899-1fb421)
