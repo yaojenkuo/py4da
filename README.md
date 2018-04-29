@@ -11,9 +11,9 @@
 
 |作業編號|作業名稱|作業分數|
 |-------|------|-------|
-|作業 0|[網站爬蟲](http://yaojenkuo.io/py4da/dynamic_scraper.slides.html#/4)|70/250|
-|作業 1|[NumPy](http://yaojenkuo.io/py4da/intro_2_numpy.slides.html#/11)|70/250|
-|作業 2|[pandas](http://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html#/2)|100/250|
+|作業 0|[網站爬蟲](http://yaojenkuo.io/py4da/dynamic_scraper.slides.html#/4)|70/240|
+|作業 1|[NumPy](http://yaojenkuo.io/py4da/intro_2_numpy.slides.html#/11)|70/240|
+|作業 2|[pandas](http://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html#/2)|100/240|
 
 ### 課程大綱
 
@@ -31,3 +31,7 @@
 - [DataInPoint](https://www.facebook.com/datainpoint)
 - [Pyradise](https://www.facebook.com/pyradise.geek)
 - [DataCamp](https://www.datacamp.com/courses/tech:python?tap_a=5644-dce66f&tap_s=194899-1fb421)
+
+### 課堂錄影
+
+- [296 期假日專題班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuXT7oIDBpC-P4Rg155hi_sD)
