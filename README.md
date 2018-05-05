@@ -17,10 +17,10 @@
 
 ### 課程大綱
 
-- [建立開發環境](https://yaojenkuo.github.io/py4da/dev_env.slides.html)
+- [建立開發環境](https://yaojenkuo.io/py4da/dev_env.slides.html)
 - [靜態網頁擷取](https://yaojenkuo.github.io/py4da/static_scraper.slides.html)
 - [動態網頁擷取](https://yaojenkuo.github.io/py4da/dynamic_scraper.slides.html)
-- [NumPy 入門](https://yaojenkuo.github.io/py4da/intro_2_numpy.slides.html)
+- [NumPy 入門](https://yaojenkuo.io/py4da/intro_2_numpy.slides.html)
 - [pandas 入門](https://yaojenkuo.github.io/py4da/pandas_intro.slides.html)
 - [pandas 專題：奧運獎牌排行](https://yaojenkuo.github.io/py4da/pandas_olympic.slides.html)
 - [pandas 專題：美國普查](https://yaojenkuo.github.io/py4da/pandas_us_census.slides.html)
