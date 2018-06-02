@@ -11,20 +11,23 @@
 
 |作業編號|作業名稱|作業分數|
 |-------|------|-------|
-|作業 0|[網站爬蟲](https://yaojenkuo.io/py4da/dynamic_scraper.slides.html#/4)|70/240|
-|作業 1|[NumPy](https://yaojenkuo.io/py4da/intro_2_numpy.slides.html#/11)|70/240|
-|作業 2|[pandas](https://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html#/2)|100/240|
+|作業 0|[NumPy](https://yaojenkuo.io/py4da/intro_2_numpy.slides.html#/11)|70/240|
+|作業 1|[pandas](https://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html#/2)|100/240|
+
+### 課堂互動工具
+
+<https://www.sli.do/>
 
 ### 課程大綱
 
 - [建立開發環境](https://yaojenkuo.io/py4da/dev_env.slides.html)
-- [靜態網頁擷取](https://yaojenkuo.io/py4da/static_scraper.slides.html)
-- [動態網頁擷取](https://yaojenkuo.io/py4da/dynamic_scraper.slides.html)
 - [NumPy 入門](https://yaojenkuo.io/py4da/intro_2_numpy.slides.html)
 - [pandas 入門](https://yaojenkuo.io/py4da/pandas_intro.slides.html)
 - [pandas 專題：奧運獎牌排行](https://yaojenkuo.io/py4da/pandas_olympic.slides.html)
 - [pandas 專題：美國普查](https://yaojenkuo.io/py4da/pandas_us_census.slides.html)
 - [pandas 專題：世界能源指標](https://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html)
+- [靜態網頁擷取](https://yaojenkuo.io/py4da/static_scraper.slides.html)
+- [動態網頁擷取](https://yaojenkuo.io/py4da/dynamic_scraper.slides.html)
 
 ### 學習資源
 
