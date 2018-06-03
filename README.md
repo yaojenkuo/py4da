@@ -18,6 +18,10 @@
 
 <https://www.sli.do/>
 
+### 課堂共筆
+
+[297 期 Google Colab](https://drive.google.com/file/d/1Nw4O5bhsE-u4dg-ZU9L2T9rsKergn68Q/view?usp=sharing)
+
 ### 課程大綱
 
 - [建立開發環境](https://yaojenkuo.io/py4da/dev_env.slides.html)
