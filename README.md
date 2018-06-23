@@ -11,8 +11,9 @@
 
 |作業編號|作業名稱|作業分數|
 |-------|------|-------|
-|作業 0|[NumPy](https://yaojenkuo.io/py4da/intro_2_numpy.slides.html#/11)|70/240|
-|作業 1|[pandas](https://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html#/2)|100/240|
+|作業 0|[Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=194899-1fb421)|100|
+|作業 1|[NumPy](https://yaojenkuo.io/py4da/intro_2_numpy.slides.html#/11)|70|
+|作業 2|[pandas](https://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html#/2)|100|
 
 ### 課堂互動工具
 
@@ -30,6 +31,8 @@
 - [pandas 專題：奧運獎牌排行](https://yaojenkuo.io/py4da/pandas_olympic.slides.html)
 - [pandas 專題：美國普查](https://yaojenkuo.io/py4da/pandas_us_census.slides.html)
 - [pandas 專題：世界能源指標](https://yaojenkuo.io/py4da/pandas_energy_indicator.slides.html)
+- [視覺化：pandas](https://yaojenkuo.io/py4da/pandas_viz.slides.html)
+- [視覺化：matplotlib](https://yaojenkuo.io/py4da/data_viz.slides.html)
 - [靜態網頁擷取](https://yaojenkuo.io/py4da/static_scraper.slides.html)
 - [動態網頁擷取](https://yaojenkuo.io/py4da/dynamic_scraper.slides.html)
 
