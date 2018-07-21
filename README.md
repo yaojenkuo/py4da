@@ -20,7 +20,8 @@
 
 ### 課堂共筆
 
-[297 期 Google Colab](https://drive.google.com/file/d/1Nw4O5bhsE-u4dg-ZU9L2T9rsKergn68Q/view?usp=sharing)
+- [298 期 Google Colab](https://colab.research.google.com/drive/1S9S3dN-SlS0Gi4gmfTvBBo5_TMxt8_Oi)
+- [297 期 Google Colab](https://drive.google.com/file/d/1Nw4O5bhsE-u4dg-ZU9L2T9rsKergn68Q/view?usp=sharing)
 
 ### 課程大綱
 
