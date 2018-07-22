@@ -44,5 +44,6 @@
 
 ### 課堂錄影
 
+- [298 期假日專題班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuU1NppDq_Zflslj0z_CzudL)
 - [297 期假日專題班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuWOPBvtbL5LbgJhdG_XkISD)
 - [296 期假日專題班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuXT7oIDBpC-P4Rg155hi_sD)
