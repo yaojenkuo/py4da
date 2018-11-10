@@ -8,6 +8,10 @@
 
 <https://www.sli.do>
 
+### 課堂社團
+
+<https://www.facebook.com/groups/ntucsietrainpyds/>
+
 ### 評分標準
 
 - 70 分即可獲得證書，作業請上傳至 [Google 表單](https://goo.gl/forms/rIijcOMbopxkH8s02)，姓名請輸入正確
